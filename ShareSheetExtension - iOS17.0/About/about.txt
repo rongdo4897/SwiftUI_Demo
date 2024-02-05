@@ -1,0 +1,4 @@
+1. Mô tả
+
+- extension Share cho app
+- ở đây sẽ share ảnh từ app photo qua ứng dụng và đồng bộ dữ liệu qua SwiftData
